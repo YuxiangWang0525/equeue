@@ -1,6 +1,6 @@
 /*
 Maiqueue Using GNU Public License to distribute software
-By YuxiangWang_ 0525 Initial Development
+By YuxiangWang0525 Initial Development
 */
 import 'dart:async';
 import 'dart:io';
